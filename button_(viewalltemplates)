@@ -1,0 +1,7 @@
+  <button class="btn large my-color rounded threeD" type="button" onclick="navigate()"> <i class="fa-solid fa-magnifying-glass"></i> View all Templates</button>
+
+   <script>
+    function navigate() {
+      window.open("https://zaap.bio/kakou", '_blank').focus();
+    }
+  </script>
